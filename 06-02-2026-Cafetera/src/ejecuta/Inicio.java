@@ -1,6 +1,6 @@
 //Práctica de la semana
+// Con GIT
 package ejecuta;
-
 
 import java.util.Scanner;
 import clases.Cafetera;
@@ -11,7 +11,8 @@ public class Inicio
 
 	public static void main(String[] args) 
 	{
-		/*try {
+		/*try 
+		 * {
 			Cafetera c = new Cafetera(0,10,0,0);
 		} 
 		catch (CafeteraException e) 
