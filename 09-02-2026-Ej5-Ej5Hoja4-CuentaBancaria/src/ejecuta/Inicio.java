@@ -1,3 +1,4 @@
+// Versión 2
 package ejecuta;
 
 import java.util.Scanner;
