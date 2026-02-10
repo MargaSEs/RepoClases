@@ -1,9 +1,11 @@
 package ejecuta;
 
+// Es necesario importar
+
 import java.util.Scanner;
 import clases.Ecuacion;
 
-public class Inicio 
+public class Inicio
 {
 
 	public static void main(String[] args) 
