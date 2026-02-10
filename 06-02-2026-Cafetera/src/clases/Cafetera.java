@@ -1,7 +1,5 @@
 package clases;
 
-import java.util.concurrent.CancellationException;
-
 public class Cafetera 
 {
 	public Cafetera(int capacidadTotal, int capacidadRestante, int volumenTaza, int volumenVaso) throws CafeteraException
