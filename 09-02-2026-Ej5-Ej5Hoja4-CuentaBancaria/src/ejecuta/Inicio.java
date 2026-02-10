@@ -1,4 +1,3 @@
-// Versión 2
 package ejecuta;
 
 import java.util.Scanner;
@@ -35,6 +34,7 @@ public class Inicio
 		
 		do
 		{
+			// Empezamos el bucle
 			try
 			{
 				System.out.println(menu);
