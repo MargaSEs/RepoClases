@@ -52,7 +52,7 @@ public class Cuenta
 		}
 		else
 		{
-			throw new CuentaException("No se ingresado el dinero. La cantidad debe ser un valor positivo");
+			throw new CuentaException("No se ha ingresado el dinero. La cantidad debe ser un valor positivo");
 		}
 		return p_cantidad;
 	}
