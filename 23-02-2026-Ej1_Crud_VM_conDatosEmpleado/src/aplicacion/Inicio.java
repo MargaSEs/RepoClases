@@ -57,7 +57,7 @@ public class Inicio
 		
 		for(DepartamentosDesplegable item: modelo.getLsDepartamentos())
 		{
-			cadena += "\tDEPTNO: " + item.getDeptNo() + ", DNOMRE: " + item.getDnombre() + "\n";
+			cadena += "\tDEPTNO: " + item.getDeptNo() + ", DNOMBRE: " + item.getDnombre() + "\n";
 		}
 			
 		System.out.println(cadena);
